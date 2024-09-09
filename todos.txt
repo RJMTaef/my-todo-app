@@ -1,5 +1,0 @@
-John
-Fuck
-clean the code
-new order
-We just made a default arg
